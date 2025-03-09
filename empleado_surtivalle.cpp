@@ -6,6 +6,7 @@
  * @details Este programa captura la información de un empleado, incluyendo su nombre, apellido,
  * número de identidad (NIT), cargo y salario. Luego, muestra estos datos en un formato legible.
  * @authors Lina Vanessa Cosme Arce; Whitsell Stiven Diosa Villada.
+ * @codes 202436459; 202439170
  * @mails lina.cosme@correounivalle.edu.co; whitsell.diosa@correounivalle.edu.co
  * @date 2025-03-02
  * @version 1.0
