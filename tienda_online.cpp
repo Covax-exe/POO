@@ -10,6 +10,7 @@
  * El programa finaliza mostrando un mensaje en la consola con el formato: "[Usuario] adquirió [Producto] por el precio
  * de [Precio], con garantía de [Garantía] años."
  * @authors Lina Vanessa Cosme Arce; Whitsell Stiven Diosa Villada.
+ * @codes 202436459; 202439170
  * @mails lina.cosme@correounivalle.edu.co; whitsell.diosa@correounivalle.edu.co
  * @date 2025-03-02
  * @version 1.0
@@ -30,7 +31,7 @@ int main()
     string nombre_usuario;
 
     // Obtención de datos
-    cout << "Nombre productos: ";
+    cout << "Nombre producto: ";
     getline(cin, nombre_producto);
 
     cout << "Precio: ";
