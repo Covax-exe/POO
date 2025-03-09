@@ -5,6 +5,7 @@
  * @details Este programa imprime las tablas de multiplicar del 0 al 5 en formato de matriz.
  * Cada fila representa la multiplicación de un número del 0 al 5 con los números del 0 al 5.
  * @authors Lina Vanessa Cosme Arce; Whitsell Stiven Diosa Villada.
+ * @codes 202436459; 202439170
  * @mails lina.cosme@correounivalle.edu.co; whitsell.diosa@correounivalle.edu.co
  * @date 2025-03-02
  * @version 1.0
